@@ -1,0 +1,4 @@
+uyga vazifa:
+1. Visual studio code urnatilmagan bo'lsa urnatamiz.
+2. githupda yangi repazitoriy ochib yangi fayl qushish.
+3. utgan mavzuni qaytarish
